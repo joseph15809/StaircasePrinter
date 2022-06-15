@@ -1,0 +1,22 @@
+/**
+ *  The StaircasePrinter program.
+ *  @author Joseph
+ *  @version June 14, 2022
+ */
+public class StaircasePrinter
+{
+    /** Prints a staircase on the screen. */
+   public static void main(String[] args)
+   { 
+      System.out.println("            +---+");
+      System.out.println("            |   |");
+      System.out.println("        +---+---+");
+      System.out.println("        |   |   |");
+      System.out.println("    +---+---+---+");
+      System.out.println("    |   |   |   |");
+      System.out.println("+---+---+---+---+");
+      System.out.println("|   |   |   |   |");
+      System.out.println("+---+---+---+---+");
+}
+}
+
